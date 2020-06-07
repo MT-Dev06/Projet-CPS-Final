@@ -5,7 +5,7 @@ Compilation BCM4_CPS -> bcm.jar
 cd BCM4_CPS/
 ant dist
 
-Installatin
+Installatin -> cps.jar
 cp BCM4_CPS/bcm.jar mourad-alpha/lib
 cd mourad-alpha/
 ant dist
